@@ -6,7 +6,7 @@
 * [8.4] [了不起的盖茨比](https://book.douban.com/subject/1008988/) (2010-2020)
 * [8.3] [奇特的一生](https://book.douban.com/subject/1115353/) (2010-2020)
 * [8.7] [美丽新世界](https://book.douban.com/subject/1321789/) (2010-2020)
-* 
+* [9.3] [杀死一只知更鸟](https://book.douban.com/subject/26879778/) (2021.6)
 # 运动
 
 # 心理
