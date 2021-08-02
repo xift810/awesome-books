@@ -15,6 +15,7 @@
 * [7.6] [引爆点](https://book.douban.com/subject/3900987/) (2010-2020)
 * [8.9] [与“众”不同的心理学](https://book.douban.com/subject/1221479/) (2010-2020)
 # 社科
+* [9.2] [舆论](https://book.douban.com/subject/27662713/) (2021.7)
 
 # 政治
 * [9.2] [政治学通识](https://book.douban.com/subject/26658395/) (2021.4)
