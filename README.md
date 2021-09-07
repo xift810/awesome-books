@@ -14,6 +14,7 @@
 * [8.5] [决策与判断](https://book.douban.com/subject/1193621/) (2010-2020)
 * [7.6] [引爆点](https://book.douban.com/subject/3900987/) (2010-2020)
 * [8.9] [与“众”不同的心理学](https://book.douban.com/subject/1221479/) (2010-2020)
+* [7.6] [情商](https://book.douban.com/subject/4929897/) (2020.9)
 # 社科
 * [9.2] [舆论](https://book.douban.com/subject/27662713/) (2021.7)
 
