@@ -17,6 +17,7 @@
 * [7.6] [情商](https://book.douban.com/subject/4929897/) (2020.9)
 # 社科
 * [9.2] [舆论](https://book.douban.com/subject/27662713/) (2021.7)
+* [8.0] [异类](https://book.douban.com/subject/25863621/) (2021.9)
 
 # 政治
 * [9.2] [政治学通识](https://book.douban.com/subject/26658395/) (2021.4)
