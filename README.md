@@ -28,6 +28,7 @@
 # 哲学
 
 # 经济
+* [8.1] [随机漫步的傻瓜](https://book.douban.com/subject/10773362/) （2021.9）
 
 # 投资
 * [8.3] [富爸爸，穷爸爸](https://book.douban.com/subject/1033778/)
