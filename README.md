@@ -34,6 +34,7 @@
 * [8.3] [富爸爸，穷爸爸](https://book.douban.com/subject/1033778/)
 * [8.9] [一本书读懂财报](https://book.douban.com/subject/25926542/) (2021.4)
 * [9.1] [小狗钱钱](https://book.douban.com/subject/3576486/) (2021.10)
+* [8.8] [个人理财](https://book.douban.com/subject/10527872/) (2021.10)
 
 # 个人管理
 * [8.3] [奇特的一生](https://book.douban.com/subject/1115353/) （2013.12）
