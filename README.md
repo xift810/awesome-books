@@ -40,7 +40,9 @@
 * [8.3] [奇特的一生](https://book.douban.com/subject/1115353/) （2013.12）
 * 
 
-# 软件工程
+# 软件/游戏工程
+* [7.5] [游戏设计概论](https://book.douban.com/subject/30556196/) (2022.1)
+
 
 # 产品
 * [8.5] [像艺术家一样思考](https://book.douban.com/subject/1951547/) (2013.9)
