@@ -52,3 +52,4 @@
 * [91] [Batman: Arkham City](https://store.steampowered.com/app/200260/Batman_Arkham_City__Game_of_the_Year_Edition/) (2021.5)
 * [9.0] [resident evil 4vr](https://www.ign.com.cn/resident-evil-4-vr/) (2022.3)
 * [93] [alyx](https://store.steampowered.com/app/546560/HalfLife_Alyx/) (2022.4)
+* [8] [resident evil 8](https://www.ign.com/games/resident-evil-village) (2022.5)
