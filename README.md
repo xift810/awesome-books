@@ -47,6 +47,7 @@
 # 产品
 * [8.5] [像艺术家一样思考](https://book.douban.com/subject/1951547/) (2013.9)
 * [7.3] [淘宝技术这十年](https://book.douban.com/subject/24335672/) (2021.11)
+* [8.3] [增长黑客](https://book.douban.com/subject/27593848/) (2022.5)
 
 # 游戏
 * [91] [Batman: Arkham City](https://store.steampowered.com/app/200260/Batman_Arkham_City__Game_of_the_Year_Edition/) (2021.5)
