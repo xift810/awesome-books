@@ -38,7 +38,7 @@
 
 # 个人管理
 * [8.3] [奇特的一生](https://book.douban.com/subject/1115353/) （2013.12）
-* 
+* [10] [佛系程序员的月薪五万指南](https://developer.aliyun.com/article/578927) （2022.5）
 
 # 软件/游戏工程
 * [7.5] [游戏设计概论](https://book.douban.com/subject/30556196/) (2022.1)
