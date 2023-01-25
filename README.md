@@ -54,3 +54,4 @@
 * [9.0] [resident evil 4vr](https://www.ign.com.cn/resident-evil-4-vr/) (2022.3)
 * [93] [alyx](https://store.steampowered.com/app/546560/HalfLife_Alyx/) (2022.4)
 * [8] [resident evil 8](https://www.ign.com/games/resident-evil-village) (2022.5)
+* [8] [Sackboy™: A Big Adventure](https://www.ign.com/games/sackboy-a-big-adventure) (2023.1)
