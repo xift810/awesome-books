@@ -13,3 +13,4 @@
 * [9.0] [It Takes Two](https://www.ign.com/games/it-takes-two) (2023.7)
 * [8.0] [Untitled Goose Game](https://www.ign.com/games/untitled-goose-game) (2023.9)
 * [9.0] [Ratchet and Clank: Rift Apart](https://www.ign.com/games/ratchet-and-clank-rift-apart) (2023.8)
+* [8.5] [Trine 4: The Nightmare Prince](ign.com/games/trine-4-the-nightmare-prince) (2023.8)
